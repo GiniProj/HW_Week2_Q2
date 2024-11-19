@@ -373,7 +373,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Purple-Slime_0: 8839870548137783082
+      Purple-Slime_1: 2253069887360977433
+      Purple-Slime_2: 7345080293026978219
+      Purple-Slime_3: -822638203920653253
+      Purple-Slime_4: 2875382111956264016
+      Purple-Slime_5: -8005562029883113903
+      Purple-Slime_6: 6103951543892033045
+      Purple-Slime_7: 3597806561529720681
+      Purple-Slime_8: -1523158863455248516
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

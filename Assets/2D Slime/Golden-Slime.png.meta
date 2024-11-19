@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Golden-Slime_0: -3634124545307289078
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
