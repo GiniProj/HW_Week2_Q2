@@ -2,6 +2,8 @@
 
 [**Play the Game on Itch.io**](https://kg-proj.itch.io/hw-week2-part-2)
 
+<img src="https://github.com/GiniProj/HW_Week2_Q2/raw/main/Description%20Image-Q2.png" alt="Description Image-Q2" width="400" height="200">
+
 ---
 
 This assignment focuses on understanding and demonstrating camera and object behavior in Unity, particularly in scenarios involving rotation and scaling adjustments in a 2D environment.
