@@ -15,21 +15,6 @@ public class PlayerMovement : MonoBehaviour
     [Tooltip("Limit of the player's movement from its center position")]
     [SerializeField] private float limitPlayerMovement = 15f;  // Default range of 2 units
 
-    [Header("Player Collision Management")]
-    [Tooltip("Player's collider")]
-    [SerializeField] private Collider2D playerCollider;
-    [SerializeField] 
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        Debug.Log("Collision detected with " + collision.gameObject.name);
-        Rigidbody2D rb = GetComponent<Rigidbody2D>();
-        if (rb != null)
-        {
-            rb.linearVelocity = Vector2.zero;
-        }
-    }
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-
     void Start()
     {
         if (moveLeftButton == null || moveRightButton == null)
